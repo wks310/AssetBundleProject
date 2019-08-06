@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 637535247
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: material
+    Info_1:
+      Name: material
+      Dependencies:
+        Dependency_0: texture
+    Info_2:
+      Name: texture
+      Dependencies: {}

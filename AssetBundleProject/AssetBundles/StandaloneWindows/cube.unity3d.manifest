@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 53186090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d5282592bf189cdb4ab2e4b77884c31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43917c7e82ed3ae0a408b3ea37ec80f7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Cube.prefab
+Dependencies:
+- D:/unity_workplace/AssetBundleProject/AssetBundles/StandaloneWindows/material
